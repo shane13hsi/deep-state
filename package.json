@@ -2,7 +2,7 @@
   "name": "deep-state",
   "description": "Manipulate nested objects",
   "repository": "https://github.com/shane13hsi/deep-state",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "scripts": {
     "build": "rm -rf lib/**/*.* && PAHT=$(npm bin):$PATH babel src/main.js --out-file lib/index.js"
   },
